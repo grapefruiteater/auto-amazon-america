@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="描画.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.104894"
+     inkscape:cx="185.08562"
+     inkscape:cy="536.70306"
+     inkscape:window-width="1796"
+     inkscape:window-height="1057"
+     inkscape:window-x="1352"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1052">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1048" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1050" />
+    </linearGradient>
+    <rect
+       x="67.837564"
+       y="350.7074"
+       width="223.99196"
+       height="218.87214"
+       id="rect394" />
+    <rect
+       x="335.34796"
+       y="622.05766"
+       width="43.518437"
+       height="67.837564"
+       id="rect261" />
+    <rect
+       x="88.316828"
+       y="615.65789"
+       width="374.4229"
+       height="88.16154"
+       id="rect205" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1052"
+       id="linearGradient1054"
+       x1="87.66069"
+       y1="691.61517"
+       x2="510.32565"
+       y2="691.61517"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,24.459957,-56.073453)"
+       id="text203"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-7.2px;white-space:pre;shape-inside:url(#rect205);display:inline;fill:url(#linearGradient1054);fill-opacity:1"><tspan
+         x="88.316406"
+         y="681.89021"
+         id="tspan1400"><tspan
+           style="font-weight:normal;line-height:1.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;word-spacing:1px;baseline-shift:baseline"
+           id="tspan1396">Auto</tspan><tspan
+           style="font-weight:normal;line-height:1.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:baseline"
+           id="tspan1398"> Amazon</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text259"
+       style="font-size:64px;white-space:pre;shape-inside:url(#rect261);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text392"
+       style="fill:#000000;font-size:64px;-inkscape-font-specification:'Arial Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect394)" />
+  </g>
+</svg>

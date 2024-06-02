@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="描画-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="176.95364"
+     inkscape:cy="313.58874"
+     inkscape:window-width="1796"
+     inkscape:window-height="1057"
+     inkscape:window-x="1352"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="117.11579"
+       y="175.3537"
+       width="289.26961"
+       height="101.11637"
+       id="rect2977" />
+    <rect
+       x="383.34623"
+       y="151.03458"
+       width="319.34853"
+       height="225.91189"
+       id="rect2046" />
+    <rect
+       x="147.19471"
+       y="321.26846"
+       width="613.09798"
+       height="136.95508"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2044"
+       style="fill:#000000;font-size:85.33333333px;-inkscape-font-specification:Cookie;font-family:Cookie;line-height:1.50000002;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:0.05882353;white-space:pre;shape-inside:url(#rect2046)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.5;font-family:Cookie;-inkscape-font-specification:Cookie;white-space:pre;shape-inside:url(#rect2977);fill:#ff5555;fill-opacity:0.0588235"><tspan
+         x="117.11523"
+         y="358.51455"
+         id="tspan3357"><tspan
+           dx="0 42.751934 43.434711 17.152016 31.061348 381.78107 42.751953 46.25061 32.682617 29.013306 31.061401"
+           id="tspan3355">AUto Amazon</tspan></tspan></text>
+  </g>
+</svg>
